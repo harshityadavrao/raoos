@@ -18,7 +18,7 @@
 
 ## 🌐 Live Demo
 
-Try it now: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+Try it now: (coming soon...)
 
 ---
 
